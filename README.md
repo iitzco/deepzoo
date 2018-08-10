@@ -28,3 +28,8 @@ This index will take you to all models of the category, regardless framework
 
 - #### Tensorflow: 
     - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Blazing fast bounding boxes of 90 different classes given a color image.
+
+## Instance Segmentation
+
+- #### Tensorflow: 
+    - [MaskRCNN Inception trained on COCO](./mask_rcnn_inception_v2_coco/): Segment all objects intances given a color image.
