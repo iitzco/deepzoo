@@ -1,4 +1,4 @@
-# Model ZOO  
+# Deep ZOO  
 
 > How to find a model
 > 1. Pick a **category**.
