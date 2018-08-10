@@ -15,15 +15,16 @@ Install them by running `pip install -r requirements.txt`
 
 Use `ObjectDetector` class from `detector.py`. 
 
-**IMPORTANT: replace the `GRAPH_PATH` value in `detector.py` with your path to the downloaded `.pb` file.**
-
 The class can be used as shown in the following example:
 
 ```python
 img_path = "/path/to/my/image"
 img = np.asarray(Image.open(img_path), dtype=np.uint8)
 
-model = ObjectDetector()
+# Provide the .pb model file path
+graph_path = "/path/to/downloaded/model"
+
+model = ObjectDetector(graph_path)
 out = model.run(img)
 
 print(out)

@@ -7,13 +7,11 @@ from labels import LABEL_MAP
 
 encoder.FLOAT_REPR = lambda o: format(o, '.2f')
 
-GRAPH_PATH = "./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.pb"
-
 
 class ObjectDetector(object):
 
-    def __init__(self):
-        self.load(GRAPH_PATH)
+    def __init__(self, graph_path):
+        self.load(graph_path)
 
     def load(self, graph_path):
         detection_graph = tf.Graph()
