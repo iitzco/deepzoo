@@ -2,7 +2,7 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](link)
+## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-1/ssd_mobilenet_v2_coco_2018_03_29.zip)
 
 ## Requirements
 
