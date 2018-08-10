@@ -10,10 +10,10 @@
 This index will take you to all models of the category, regardless framework
 
 - [Computer Vision](#computer-vision-tasks)
-- [Natural Language Processing](#natural-language-processing)
+- [Natural Language Processing](#natural-language-processing-tasks)
 - [Other](#other)
 
-# Computer Vision Tasks:
+# Computer Vision tasks:
 
 - [Image Classification](#image-classification)
 - [Object Detection](#object-detection)
@@ -21,18 +21,10 @@ This index will take you to all models of the category, regardless framework
 - [Instance Segmentation](#instance-segmentation)
 - [Other](#other-computer-vision-models)
 
-## Image Classification
-
-- #### Tensorflow: 
-    - [Inception](link): get bounding boxes of 1000 classes given a 224x224 color image.
+# Natural Language Processing tasks:
+- [Speech Translation](#speech-translation)
 
 ## Object Detection
 
 - #### Tensorflow: 
-- [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): get bounding boxes of 90 different classes given a 224x224 color image.
-
-## Instance Segmentation
-
-- #### Tensorflow:
-
-- [MaskRCNN trained on ImageNet](link): get bounding boxes of 1000 classes given a 224x224 color image.
+    - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Blazing fast bounding boxes of 90 different classes given a color image.
