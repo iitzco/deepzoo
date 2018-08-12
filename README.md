@@ -24,6 +24,11 @@ This index will take you to all models of the category, regardless framework
 # Natural Language Processing tasks:
 - [Speech Translation](#speech-translation)
 
+## Image Classification
+
+- #### Tensorflow: 
+    - [Inception trained on ImageNet](./inception_imagenet/): Classify entire images into 1000 classes, like "Zebra", "Panda", and "Dishwasher".
+
 ## Object Detection
 
 - #### Tensorflow: 
