@@ -32,7 +32,8 @@ This index will take you to all models of the category, regardless framework
 ## Object Detection
 
 - #### Tensorflow: 
-    - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Blazing fast bounding boxes of 90 different classes given a color image.
+    - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Locate and classify objects into 80 classes with high speed.
+    - [FasterRCNN Resnet 50 trained Coco](./faster_rcnn_resnet50_coco/): Locate and classify objects into 80 classes with a high accuracy.
 
 ## Instance Segmentation
 
