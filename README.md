@@ -34,6 +34,7 @@ This index will take you to all models of the category, regardless framework
 - #### Tensorflow: 
     - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Locate and classify objects into 80 classes with high speed.
     - [FasterRCNN Resnet 50 trained Coco](./faster_rcnn_resnet50_coco/): Locate and classify objects into 80 classes with a high accuracy.
+    - [YOLOv2 trained Coco](./yolov2_coco/): Locate and classify objects into 80 classes with high speed.
 
 ## Instance Segmentation
 
