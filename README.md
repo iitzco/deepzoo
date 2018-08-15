@@ -17,6 +17,7 @@ This index will take you to all models of the category, regardless framework
 
 - [Image Classification](#image-classification)
 - [Object Detection](#object-detection)
+- [Pose Estimation](#pose-estimation)
 - [Face Detection](#face-detection)
 - [Instance Segmentation](#instance-segmentation)
 - [Other](#other-computer-vision-models)
@@ -35,6 +36,11 @@ This index will take you to all models of the category, regardless framework
     - [SSD MobileNet trained on Coco](./ssd_mobilenet_v2_coco/): Locate and classify objects into 80 classes with high speed.
     - [FasterRCNN Resnet 50 trained Coco](./faster_rcnn_resnet50_coco/): Locate and classify objects into 80 classes with a high accuracy.
     - [YOLOv2 trained Coco](./yolov2_coco/): Locate and classify objects into 80 classes with high speed.
+
+## Pose Estimation
+
+- #### Caffe: 
+    - [OpenPose trained on COCO Keypoint](./openpose_coco/): Find body keypoints (knees, arms, eyes, hip, etc.) in an image.
 
 ## Instance Segmentation
 
