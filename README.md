@@ -20,6 +20,7 @@ This index will take you to all models of the category, regardless framework
 - [Pose Estimation](#pose-estimation)
 - [Face Detection](#face-detection)
 - [Instance Segmentation](#instance-segmentation)
+- [Image Enhancement](#image-enhancement)
 - [Other](#other-computer-vision-models)
 
 # Natural Language Processing tasks:
@@ -46,3 +47,9 @@ This index will take you to all models of the category, regardless framework
 
 - #### Tensorflow: 
     - [MaskRCNN Inception trained on COCO](./mask_rcnn_inception_v2_coco/): Segment all objects intances given a color image.
+
+## Image Enhancement
+
+- #### Caffe: 
+    - [Colorful Image Colorization](./zhang_colorization/): Colorize black and white images!
+
