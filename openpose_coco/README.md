@@ -61,3 +61,6 @@ Deal with the returning `points` object to do whatever you want!
 
 * Using OpenPose official models from [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/getModels.sh)
 
+## Comment
+
+We are using openCV's amazing `dnn` library that allows us to load Tensorflow, Caffe and Torch models. You can go [here](https://github.com/iitzco/OpenCV-dnn-samples) for more information.

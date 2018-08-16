@@ -4,7 +4,7 @@
 
 *From Zhang, R., Isola, P. and Efros, A. (2018). Colorful Image Colorization. Available [here](http://richzhang.github.io/colorization/)*
 
-![img](imgs/result.jpg)
+![img](imgs/result.png)
 
 ## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-7/zhang_colorization.zip)
 
@@ -21,6 +21,9 @@ Use `Colorant` class from `colorant.py`.
 The class can be used as shown in the following example:
 
 ```python
+import cv2
+from colorant import Colorant
+
 img_path = "/path/to/my/b&w/image"
 
 img = cv2.imread(img_path)
@@ -51,4 +54,8 @@ cv2.imwrite("output.png", img)
 
 ## Model info
 
-All information related to the model can be found [here](http://richzhang.github.io/colorization/)
+All information related to the model can be found [here](http://richzhang.github.io/colorization/).
+
+## Comment
+
+We are using openCV's amazing `dnn` library that allows us to load Tensorflow, Caffe and Torch models. You can go [here](https://github.com/iitzco/OpenCV-dnn-samples) for more information.
