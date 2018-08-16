@@ -58,4 +58,6 @@ All information related to the model can be found [here](http://richzhang.github
 
 ## Comment
 
-We are using openCV's amazing `dnn` library that allows us to load Tensorflow, Caffe and Torch models. You can go [here](https://github.com/iitzco/OpenCV-dnn-samples) for more information.
+* We are using openCV's amazing `dnn` library that allows us to load Tensorflow, Caffe and Torch models. You can go [here](https://github.com/iitzco/OpenCV-dnn-samples) for more information.
+* To understand all preprocessing done in `Colorant`, refer to this blogpost [here](https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/)
+
