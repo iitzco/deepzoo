@@ -81,20 +81,9 @@ class PainterNetwork:
         saver.restore(sess, checkpoint_dir)
 
         _pred = sess.run(preds, feed_dict={img_placeholder: img})
-        return _pred.squeeze()
+        _pred = np.squeeze(_pred)
+
+        _pred = np.clip(_pred, 0, 255).astype(np.uint8)
+        return _pred
 
 
-if __name__ == '__main__':
-    MODEL = "./models/wave.ckpt"
-    OUTPUT = "./output"
-
-    img = cv2.imread(sys.argv[1])
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-
-    img = PainterNetwork.run(img, MODEL)
-    img = np.clip(img, 0, 255).astype(np.uint8)
-
-    img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-    cv2.imshow('image', img)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
