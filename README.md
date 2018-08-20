@@ -53,3 +53,9 @@ This index will take you to all models of the category, regardless framework
 - #### Caffe: 
     - [Colorful Image Colorization](./zhang_colorization/): Colorize black and white images!
 
+
+## Other Computer Vision  Models
+
+- #### Tensorflow: 
+    - [Fast Style Transfer](./fast-style-transfer/): Add styles from famous paintings to any photo.
+
