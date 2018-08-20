@@ -6,7 +6,7 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](link)
+## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-8/fast_style_transfer_models.zip)
 
 ## Requirements
 
