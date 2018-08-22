@@ -11,9 +11,10 @@ This index will take you to all models of the category, regardless framework
 
 - [Computer Vision](#computer-vision-tasks)
 - [Natural Language Processing](#natural-language-processing-tasks)
+- [Audio](#audio-tasks)
 - [Other](#other)
 
-# Computer Vision tasks:
+# Computer Vision tasks
 
 - [Image Classification](#image-classification)
 - [Object Detection](#object-detection)
@@ -23,8 +24,13 @@ This index will take you to all models of the category, regardless framework
 - [Image Enhancement](#image-enhancement)
 - [Other](#other-computer-vision-models)
 
-# Natural Language Processing tasks:
+# Natural Language Processing tasks
 - [Speech Translation](#speech-translation)
+
+# Audio tasks
+- [Speech To Text](#speech-to-text)
+
+---
 
 ## Image Classification
 
@@ -58,4 +64,11 @@ This index will take you to all models of the category, regardless framework
 
 - #### Tensorflow: 
     - [Fast Style Transfer](./fast-style-transfer/): Add styles from famous paintings to any photo.
+
+---
+
+## Speech To Text
+
+- #### Tensorflow: 
+    - [Deep Speech](./deep-speech/): Convert speech audio to text. Based on [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
