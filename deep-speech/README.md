@@ -3,7 +3,7 @@
 > Convert speech audio to text
 > **This work is just an example demonstration from [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)**
 
-![img](imgs/result.png)
+![img](https://uploads-ssl.webflow.com/5985ca0c9abf440001d1f4b0/5a68a52180efb200017181cf_transcription_icon_v2_EN.png)
 
 ## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-9/deepspeech-0.1.1-models.tar.gz)
 
