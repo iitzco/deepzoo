@@ -22,6 +22,7 @@ This index will take you to all models of the category, regardless framework
 - [Face Detection](#face-detection)
 - [Instance Segmentation](#instance-segmentation)
 - [Image Enhancement](#image-enhancement)
+- [Image Captioning](#image-captioning)
 - [Other](#other-computer-vision-models)
 
 # Natural Language Processing tasks
@@ -58,6 +59,11 @@ This index will take you to all models of the category, regardless framework
 
 - #### Caffe: 
     - [Colorful Image Colorization](./zhang_colorization/): Colorize black and white images!
+
+## Image Captioning
+
+- #### Tensorflow: 
+    - [im2txt](./im2txt//): Caption an image. Implementation of [Show And Tell](https://arxiv.org/abs/1411.4555)
 
 
 ## Other Computer Vision  Models
