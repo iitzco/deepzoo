@@ -6,7 +6,7 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](link)
+## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-10/im2txt_models.zip)
 
 ## Requirements
 
