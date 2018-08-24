@@ -40,7 +40,9 @@ for p, sentence in captions:
 
 ## Some results
 
-
+| "a man riding on the back of a brown horse" |    "a large jetliner flying through a cloudy sky"           |
+| ------------- |:-------------:|
+| ![](https://46yxb83hlyy77jig73dh02ok-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Western-Horseback-Riding-Featured.jpg)   | ![](https://cdn.technologyreview.com/i/images/zunum-2022-aircraft-in-clouds.jpg?sw=1122) |
 
 ## Model info
 
