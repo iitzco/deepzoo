@@ -5,7 +5,12 @@
 
 ![img](https://uploads-ssl.webflow.com/5985ca0c9abf440001d1f4b0/5a68a52180efb200017181cf_transcription_icon_v2_EN.png)
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-9/deepspeech-0.1.1-models.tar.gz)
+
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-9/deepspeech-0.1.1-models.tar.gz">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Limitations
 
