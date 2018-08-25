@@ -4,7 +4,11 @@
 
 > Single pose human estimation.
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-6/openpose_pose_coco.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-6/openpose_pose_coco.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

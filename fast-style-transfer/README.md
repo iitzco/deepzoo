@@ -6,7 +6,11 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-8/fast_style_transfer_models.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-8/fast_style_transfer_models.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

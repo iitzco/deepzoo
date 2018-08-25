@@ -4,7 +4,11 @@
 
 ![img](imgs/result.jpg)
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-3/inception-2015-12-05.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-3/inception-2015-12-05.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

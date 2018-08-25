@@ -2,7 +2,11 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-2/mask_rcnn_inception_v2_coco_2018_01_28.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-2/mask_rcnn_inception_v2_coco_2018_01_28.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

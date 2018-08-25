@@ -4,7 +4,11 @@
 
 > Locate and classify all objects that are present in an image
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-4/faster_rcnn_resnet50_coco_2018_01_28.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-4/faster_rcnn_resnet50_coco_2018_01_28.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

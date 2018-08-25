@@ -4,7 +4,11 @@
 
 > Locate and classify all objects that are present in an image
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-5/yolov2_coco.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-5/yolov2_coco.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 

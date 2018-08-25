@@ -6,7 +6,11 @@
 
 ![img](imgs/result.png)
 
-## [Link to model](https://github.com/iitzco/deepzoo/releases/download/model-upload-10/im2txt_models.zip)
+<p align="left">
+  <a href="https://github.com/iitzco/deepzoo/releases/download/model-upload-10/im2txt_models.zip">
+    <img src="../imgs/download-button.png" height=100/>
+  </a>
+</p>
 
 ## Requirements
 
