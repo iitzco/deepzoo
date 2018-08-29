@@ -1,9 +1,26 @@
-# Deep ZOO  
+<p align="center">
+  <img src="imgs/logo-color.png" height=350/>
+</p>
 
-> How to find a model
+### Problem
+
+It is often difficult to be able to run inference on trained models of open source projects. This is mainly because most deep learning repos are all about describing new architectures, explaining training processes and/or publishing amazing metric results. The focus is more on the **model description and explanation rather than on the model use**.
+
+When we want to run some model, we often encounter complex installation steps or even model unavailability (train it yourself!).
+
+### Goal
+
+The goal of this repo is to provide a place where we can **make use of the trained models**. Each model will be hosted in it's own site where a README will guide the user over simple and easy steps on how to run the model (often involving an auxiliary class also provided in the site). All models will be also hosted on this repo, under the `releases` section.
+
+### Contribute! :raised_hands:
+
+The only way to grow this collection is with your help. **If you know how to run a traditional model and/or you built one and you wish to share it, you're welcome**. Read [contribute.md](contribute.md).
+
+## How to use
+
 > 1. Pick a **category**.
 > 2. Pick the **task**
-> 3. Navigate the options sorted by framework
+> 3. Navigate the options sorted by framework and pick the desired model
 
 # Categories:
 
