@@ -4,6 +4,8 @@
 
 Anyone! If you have trained a small model to perform a simple task or if you know how to run a big new complex model, feel free to share it in `DeepZoo` so that other can use it too!
 
+**Any framework is welcomed!**
+
 ## How to submit a model?
 
 For each model you wish to add to `DeepZoo`, submit a Pull Request following this instructions:
